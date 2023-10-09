@@ -5,7 +5,7 @@
 
 
 ## Glossary 
-Branch
+**Branch
 Clone
 Commit
 Fetch
@@ -16,4 +16,4 @@ Merge Conflict
 Push
 Pull
 Remote
-Repository
+Repository**

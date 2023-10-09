@@ -6,6 +6,7 @@ Part 1: Directions on Using Webstorm
 
 ## Glossary 
 **Branch**: 
+</br>
 **Clone**
 **Commit**
 **Fetch**

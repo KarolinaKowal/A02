@@ -4,7 +4,7 @@
 
 
 
-Glossary 
+## Glossary 
 Branch
 Clone
 Commit

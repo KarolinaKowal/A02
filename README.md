@@ -1,7 +1,6 @@
 # A02
 
 ## Part 1: Directions on Using Webstorm 
-
 1. Download Webstorm: https://www.jetbrains.com/student/ 
 </br>
 2. Download **Git**: https://git-scm.com/downloads
@@ -32,9 +31,9 @@
 </br>
 * Press the + at the top of the page 
 </br>
-* Create a New **Repository** by clicking "New Repository"
+* Create a New **Repository** by clicking New Repository
 </br>
-*Your first **Repository** is set up. Make the **Repository** public, add the ReadMe file and click "Create"
+*Your first **Repository** is set up. Make the **Repository** public, add the ReadMe file and click Create
 </br>
 8. Create a **Repository** from Webstorm
 </br>
@@ -46,6 +45,22 @@
 </br>
 * Click Ok
 </br>
+9. Import a Repository from Github
+  * From the Main Page, Select Checkout from Version Control
+  * Select **Git** OR
+  * From Within Webstorm Select VCS
+  * Select Checkout from Version Control
+  * Select **Git**
+  * Enter the **Github Repository** Name
+  * Enter the local path name
+  * Click **Clone**
+10. Create a Webstorm File
+    * Choose File
+    * Click on HTML
+    * Click HTML 5 (This will create your HTML File)
+    * Or Click on File
+    * And then Click on Stylesheet (This will create your CSS File)
+
 
    
 

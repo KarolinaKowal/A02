@@ -7,9 +7,9 @@ Part 1: Directions on Using Webstorm
 ## Glossary 
 **Branch**: 
 </br>
-**Clone**:
+**Clone**: It is a local copy of a repository. Files can be edited on another editor and be uploaded to Git without being online. The repository that has been cloned is connected to the remote version online, so whenever you are online, you are able to push the local changes you have made to the remote version online.
 </br>
-**Commit**: 
+**Commit**: To make changes to a file or a set of files. When a commit is made, your work is saved, and Github will generate a unique ID (aka the "SHA" or the hash) to keep a record of the saved changes. It will also keep a record of who made those changes and when they made those changes. Commits have a brief description that displays what changes were made. 
 </br>
 **Fetch**: When changes are being added from the remote repository to a local copy without committing those changes. 
 </br>

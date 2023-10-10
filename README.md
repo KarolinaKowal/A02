@@ -1,9 +1,8 @@
 # A02
 
 ## Part 1: Directions on Using Webstorm 
-</br>
 
- 
+
 1. Download Webstorm: https://www.jetbrains.com/student/ 
 </br>
 2. Download **Git**: https://git-scm.com/downloads

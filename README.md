@@ -1,15 +1,20 @@
 # A02
 
 ## Part 1: Directions on Using Webstorm 
-1. Download Webstorm: https://www.jetbrains.com/student/ 
-</br>
+
+1. Download Webstorm: https://www.jetbrains.com/student/
 2. Download **Git**: https://git-scm.com/downloads
+   
+
+
 </br>
-3. Create a **Github** Account: https://github.com/join
+4. Download **Git**: https://git-scm.com/downloads
 </br>
-4. Open Webstorm
+5. Create a **Github** Account: https://github.com/join
 </br>
-5. Connect **Github**/**Git** with Webstorm
+6. Open Webstorm
+</br>
+7. Connect **Github**/**Git** with Webstorm
 </br>
 * Press (CTRL+ALT+S) on your keyboard to active IDE settings and then select Version Control | Git
 </br>
@@ -46,24 +51,60 @@
 * Click Ok
 </br>
 9. Import a Repository from Github
+</br>
   * From the Main Page, Select Checkout from Version Control
+</br>
   * Select **Git** OR
+</br>
   * From Within Webstorm Select VCS
+</br>
   * Select Checkout from Version Control
+</br>
   * Select **Git**
+</br>
   * Enter the **Github Repository** Name
+</br>
   * Enter the local path name
+</br>
   * Click **Clone**
+</br>
 10. Create a Webstorm File
+</br>
     * Choose File
+</br>
     * Click on HTML
+</br>
     * Click HTML 5 (This will create your HTML File)
+</br>
     * Or Click on File
+</br>
     * And then Click on Stylesheet (This will create your CSS File)
+</br>
 
+Add Files to Git
+* The Add to **Git** Dialog will open after the previous step is completed
+* Click Add to add the files to **Git**
 
-   
+Commit Your Changes
+* Make any changes to the index.html file you just added to **Git**
+* Add a **Commit** Message
+* Click on **Commit**
 
+Push Change to **Remote Repository** 
+* Click (CTRL+SHIFT+K)
+* Or Click VCS | Git | **Push**
+
+Your file will now be on Github
+
+Set up Github Pages
+* Click Settings
+* Check the **Repository** name
+
+Choose Github Pages Location
+* Select "Main **branch**"
+
+Check your Github Pages
+* Copy the Github.io URL into a browser
 
 
 

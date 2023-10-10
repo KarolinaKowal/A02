@@ -1,6 +1,7 @@
 # A02
 
 ## Part 1: Directions on Using Webstorm 
+Install Webstorm. Webstorm can be downloaded here: https://www.jetbrains.com/community/education/#students. 
 
 
 

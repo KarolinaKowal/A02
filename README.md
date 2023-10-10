@@ -2,7 +2,6 @@
 
 ## Part 1: Directions on Using Webstorm 
 
-
 1. Download Webstorm: https://www.jetbrains.com/student/ 
 </br>
 2. Download **Git**: https://git-scm.com/downloads
@@ -13,39 +12,39 @@
 </br>
 5. Connect **Github**/**Git** with Webstorm
 </br>
-	* Press (CTRL+ALT+S) on your keyboard to active IDE settings and then select Version Control | Git
+* Press (CTRL+ALT+S) on your keyboard to active IDE settings and then select Version Control | Git
 </br>
-	* Enter the path to the git.exe file on your computer
+* Enter the path to the git.exe file on your computer
 </br>
-	* Click Ok
+* Click Ok
 </br>
 6. Add your **Github** Password to Webstorm 
 </br>
-   - In Webstorm, press (CTRL+ALT+S) to open System Preferences 
+* In Webstorm, press (CTRL+ALT+S) to open System Preferences 
 </br>
-   - Select Appearance and Behavior | System Settings | Passwords 
+* Select Appearance and Behavior | System Settings | Passwords 
 </br>
-   - In KeePass, type the location where your password file is located 
+* In KeePass, type the location where your password file is located 
 </br>
-			- Click Ok
+* Click Ok
 </br>
 7. In **Github**, Create a **Repository**
 </br>
-   - Press the + at the top of the page 
+* Press the + at the top of the page 
 </br>
-			- Create a New **Repository** by clicking "New Repository"
+* Create a New **Repository** by clicking "New Repository"
 </br>
-			- Your first **Repository** is set up. Make the **Repository** public, add the ReadMe file and click "Create"
+*Your first **Repository** is set up. Make the **Repository** public, add the ReadMe file and click "Create"
 </br>
 8. Create a **Repository** from Webstorm
 </br>
-			- Select VCS and Import into Version Control
+* Select VCS and Import into Version Control
 </br>
-   - Create a **git** repository
+* Create a **git** repository
 </br>
-			- Name the **Repository**
+* Name the **Repository**
 </br>
-			- Click Ok
+* Click Ok
 </br>
 
    

@@ -14,11 +14,11 @@
 </br>
 5. Connect **Github**/**Git** with Webstorm
 </br>
-- Press (CTRL+ALT+S) on your keyboard to active IDE settings and then select Version Control | Git
+	- Press (CTRL+ALT+S) on your keyboard to active IDE settings and then select Version Control | Git
 </br>
-* Enter the path to the git.exe file on your computer
+	* Enter the path to the git.exe file on your computer
 </br>
-+ Click Ok
+	+ Click Ok
 </br>
 6. Add your **Github** Password to Webstorm 
 </br>

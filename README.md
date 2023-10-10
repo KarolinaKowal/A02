@@ -58,6 +58,21 @@
     * Select "Main **branch**"
 17. Check your Github Pages
     * Copy the Github.io URL into a browser
+18. How to Pull a Request from Github
+    * On Github, navigate to the **Repository**
+    * Click on the Branch Menu, and choose the one that contains your **commits**
+    * Above the list of files, click Compare and **pull** request to create a **pull** request for the branch
+    * Use the branch dropdown menu to select the **branch** you would like to work with and **merge** changes
+    * Click on the compare **branch** drop-down menu to choose the topic **branch** that you made your changes in
+    * Type in the title and description of the **pull** request
+    * Finally, click Create **Pull** Request to create the **Pull** request
+19. How to Fetch Changes on Github
+    * Use *git fetch* to receive the work done by other people on Github.
+    * Enter *git fetch REMOTE-NAME* into the terminal.
+20. How to Resolve Merge Conflicts
+    * Under the **Repository** name, click on **Pull** Requests
+    * In the **Pull** Requests List, click on the **pull request** with the merge conflict you would like to resolve
+    * Click on Resolve conflicts
 
 
 
@@ -88,4 +103,13 @@
 </br>
 
 ### Sources Used
+Set up a Git repository | WebStorm. (n.d.). WebStorm Help. https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html
+
+‌Creating a pull request. (n.d.). GitHub Docs. Retrieved October 10, 2023, from https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
+‌Getting changes from a remote repository. (n.d.). GitHub Docs. https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository
+
+‌Resolving a merge conflict on GitHub. (n.d.). GitHub Docs. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
+
+‌
 

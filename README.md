@@ -4,21 +4,21 @@
 </br>
 1. Download Webstorm: https://www.jetbrains.com/student/
 </br>
-2. Download Git: https://git-scm.com/downloads
+2. Download **Git**: https://git-scm.com/downloads
 </br>
-3. Create a Github Account: https://github.com/join
+3. Create a **Github** Account: https://github.com/join
 </br>
 4. Open Webstorm
 </br>
-5. Connect Github/Git with Webstorm
+5. Connect **Github**/**Git** with Webstorm
 </br>
   a. Press (CTRL+ALT+S) on your keyboard to active IDE settings and then select Version Control | Git
 </br>
   b. Enter the path to the git.exe file on your computer
 </br>
-  c. Click ok
+  c. Click Ok
 </br>
-6. Add your Github Password to Webstorm 
+6. Add your **Github** Password to Webstorm 
 </br>
   a. In Webstorm, press (CTRL+ALT+S) to open System Preferences 
 </br>
@@ -26,9 +26,13 @@
 </br>
   c. In KeePass, type the location where your password file is located 
 </br>
-  d. Click ok
+  d. Click Ok
 </br>
-  
+7. In **Github**, Create a **Repository**
+</br>
+  a. Press the + at the top of the page 
+</br>
+  b. Create a new **repository** by clicking "New Repository"
     
 
 

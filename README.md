@@ -29,7 +29,10 @@
 **Pull**: The ability to fetch changes and merge them. For example, you can "pull" in the changes made to the remote repository, and update your local copy with them.
 </br>
 **Remote**: The version of a repository or branch that is hosted on another server, such as on Github.com. As changes are made, the repository/branch on Github is updated to display the changes. 
+</br>
+**Repository**: It is considered to be the most basic element of Github. It can be thought of as a project's folder, and includes all of the project's files. It also includes each file's revision history. Repositories can be public or private and can include one or more collaborators. 
+</br>
 
 ### Sources Used
 </br>
-**Repository**: It is considered to be the most basic element of Github. It can be thought of as a project's folder, and includes all of the project's files. It also includes each file's revision history. Repositories can be public or private and can include one or more collaborators. 
+

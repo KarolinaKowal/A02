@@ -2,7 +2,8 @@
 
 ## Part 1: Directions on Using Webstorm 
 </br>
-Install Webstorm. Webstorm can be downloaded here: https://www.jetbrains.com/community/education/#students. 
+1. Install Webstorm. Webstorm can be downloaded here: https://www.jetbrains.com/community/education/#students. 
+2. 
 
 
 
@@ -28,5 +29,7 @@ Install Webstorm. Webstorm can be downloaded here: https://www.jetbrains.com/com
 **Pull**: The ability to fetch changes and merge them. For example, you can "pull" in the changes made to the remote repository, and update your local copy with them.
 </br>
 **Remote**: The version of a repository or branch that is hosted on another server, such as on Github.com. As changes are made, the repository/branch on Github is updated to display the changes. 
+
+### Sources Used
 </br>
 **Repository**: It is considered to be the most basic element of Github. It can be thought of as a project's folder, and includes all of the project's files. It also includes each file's revision history. Repositories can be public or private and can include one or more collaborators. 

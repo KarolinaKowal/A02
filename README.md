@@ -5,7 +5,7 @@ Part 1: Directions on Using Webstorm
 
 
 ## Glossary 
-**Branch**: 
+**Branch**: A repository contains branches, and can be helpful when trying to make changes without disrupting the main or primary branch. Changes made in the branch can later be merged back with the main or primary branch. 
 </br>
 **Clone**: It is a local copy of a repository. Files can be edited on another editor and be uploaded to Git without being online. The repository that has been cloned is connected to the remote version online, so whenever you are online, you are able to push the local changes you have made to the remote version online.
 </br>

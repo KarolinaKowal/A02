@@ -8,7 +8,8 @@
 </br>
 3. Create a Github Account: https://github.com/join
 </br>
-
+4. Open Webstorm
+  a. Connect Github with Webstorm 
 
 
 

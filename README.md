@@ -9,7 +9,27 @@
 3. Create a Github Account: https://github.com/join
 </br>
 4. Open Webstorm
-  a. Connect Github with Webstorm 
+</br>
+5. Connect Github/Git with Webstorm
+</br>
+  a. Press (CTRL+ALT+S) on your keyboard to active IDE settings and then select Version Control | Git
+</br>
+  b. Enter the path to the git.exe file on your computer
+</br>
+  c. Click ok
+</br>
+6. Add your Github Password to Webstorm 
+</br>
+  a. In Webstorm, press (CTRL+ALT+S) to open System Preferences 
+</br>
+  b. Select Appearance and Behavior | System Settings | Passwords 
+</br>
+  c. In KeePass, type the location where your password file is located 
+</br>
+  d. Click ok
+</br>
+  
+    
 
 
 

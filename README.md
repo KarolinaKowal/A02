@@ -3,7 +3,10 @@
 ## Part 1: Directions on Using Webstorm 
 </br>
 1. Install Webstorm. Webstorm can be downloaded here: https://www.jetbrains.com/community/education/#students. 
-2. 
+2. Install Git. Git can be downloaded here: https://git-scm.com/downloads.
+3. Create a Github Account here: https://github.com/join. 
+4. 
+
 
 
 
